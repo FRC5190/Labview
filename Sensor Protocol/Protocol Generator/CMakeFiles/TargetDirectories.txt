@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/New folder/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/New folder/CMakeFiles/protocol_generator.dir
+C:/Users/User/Desktop/New folder/CMakeFiles/ZERO_CHECK.dir

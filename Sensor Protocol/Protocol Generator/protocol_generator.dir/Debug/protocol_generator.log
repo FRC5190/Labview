@@ -1,0 +1,16 @@
+﻿Build started 12/6/2015 4:14:01 PM.
+     1>Project "C:\Users\User\Desktop\New folder\protocol_generator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"protocol_generator.dir\Debug\\" /Fd"protocol_generator.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\ui.cpp"
+         ui.cpp
+     1>C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\ui.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\New folder\Debug\protocol_generator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/User/Desktop/New folder/Debug/protocol_generator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/User/Desktop/New folder/Debug/protocol_generator.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug protocol_generator.dir\Debug\ui.obj
+         protocol_generator.dir\Debug\utils.obj
+         protocol_generator.dir\Debug\transmission.obj
+         protocol_generator.vcxproj -> C:\Users\User\Desktop\New folder\Debug\protocol_generator.exe
+     1>Done Building Project "C:\Users\User\Desktop\New folder\protocol_generator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.82

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\ui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\transmission.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\SummerCoding-master(1)\SummerCoding-master\protocol\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C0C6351B-03F4-3577-9E80-FB4F2A162B60}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
